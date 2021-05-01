@@ -2,9 +2,9 @@ import sys
 import os
 import re
 
-
-src = "D:/documents/My Clippings.txt"
-dst = "C:/Users/david/iCloudDrive/Documents/Obsidian/Random Thoughts/Books"
+# these variables must be updated to work
+src = "your kindle location here"
+dst = "your note taking folder here"
 
 highlight_separator = "=========="
 
